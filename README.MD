@@ -8,7 +8,7 @@
 * [Live Demo](#live-demo)
 
 ## General info
-In my learningJS series here on Git Hub I will showcase simple applications built mostly as a practice while learning JavaScript. Here I explore Object Oriented Programming in JavaScript - first I created application using standard (ES5) syntax after which I translated that to ES6 syntax with classes. 
+In my learningJS series here on Git Hub I will showcase simple applications built mostly as a practice while learning JavaScript. Here I explore Object Oriented Programming in JavaScript - first I created application using standard (ES5) syntax after which I translated code to ES6 syntax with classes. 
 
 Booklist app enables you to catalog your books - it takes three parameters for each insert - title, author and ISBN. Applicaton stores your list data to Local storage and enables you to manipulate your data - delete items and filter list.
 
@@ -22,4 +22,4 @@ Booklist app enables you to catalog your books - it takes three parameters for e
 * Plain JS, CSS3, HTML5
 
 ## Live Demo
-You can see live demo [here](here).
+You can see live demo [here](https://dbilanoski.github.io/learningJS_booklist).
