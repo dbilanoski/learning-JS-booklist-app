@@ -1,4 +1,4 @@
-# LearningJS - Booklist
+# Learning JavaScript - Booklist Web App
 > Simple application for cataloging books built as a practice while learning JavaScript basics.
 
 ## Table of contents
